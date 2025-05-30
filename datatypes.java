@@ -13,6 +13,7 @@ public class datatypes{
        System.out.println(price);
     }
        //long
+       
       //double
        
 
