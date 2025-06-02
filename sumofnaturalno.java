@@ -9,6 +9,7 @@ public class sumofnaturalno{
 
           int i=1;
           while(i <=n) {
+            
             sum += i;
             i++;
           }
