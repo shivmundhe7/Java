@@ -13,5 +13,6 @@ public class printifnoisodd {
         }
 
         sc.close();
+        
     }
 }
