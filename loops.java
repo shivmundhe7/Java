@@ -8,5 +8,6 @@ public class loops {
         }
         System.out.println("printed HW 100x");
     }
+
     
 }

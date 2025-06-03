@@ -4,6 +4,8 @@ public class continuestatement {
             for (int i=1; i<=5; i++) {
         if(i == 3) {
             
+
+            
         }
     }
     }
