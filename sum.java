@@ -4,7 +4,4 @@ public class sum {
         int b = 20;
         System.out.println(a*b);
     }
-    
-
-
 }
