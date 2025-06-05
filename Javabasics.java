@@ -7,8 +7,6 @@ public class Javabasics{
         System.out.println("* * *");
         System.out.println("* * ");
         System.out.println("*");
-
-        
     }
     
 }
