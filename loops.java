@@ -7,7 +7,5 @@ public class loops {
             counter++;
         }
         System.out.println("printed HW 100x");
-    }
-
-    
+    }   
 }
