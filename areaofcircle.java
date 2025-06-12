@@ -10,6 +10,7 @@ public class areaofcircle{
     }
 
 }
+
 //Revision Of Code 
 //import java.util.Scanner;
 //public class areaofcircle{
@@ -21,4 +22,4 @@ public class areaofcircle{
 //        }
 //   }
 //
-//}
+//} 
