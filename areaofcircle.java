@@ -8,7 +8,6 @@ public class areaofcircle{
             System.out.println(area);
         }
     }
-
 }
 //Revision Of Code 
 //import java.util.Scanner;
