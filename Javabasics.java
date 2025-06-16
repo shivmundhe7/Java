@@ -8,7 +8,6 @@ public class Javabasics{
         System.out.println("* * ");
         System.out.println("*");
     }
-    
 }
 
 // Boiler Plate Code
