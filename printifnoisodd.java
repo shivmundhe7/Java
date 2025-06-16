@@ -11,8 +11,6 @@ public class printifnoisodd {
         } else {
             System.out.println("The Number Is Odd");
         }
-
         sc.close();
-        
     }
 }
