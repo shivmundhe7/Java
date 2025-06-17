@@ -1,5 +1,3 @@
-
-
 public class printlargenumber{
      public static void main(String[] args){
         int A = 10;
@@ -9,7 +7,6 @@ public class printlargenumber{
     }     else{
         System.out.println("B is Larger Of 2");
     }
-
      }
 
 }
