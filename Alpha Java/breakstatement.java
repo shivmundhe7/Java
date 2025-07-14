@@ -12,7 +12,6 @@ public class breakstatement{
 }
 
 //Revision Of Code
-
 //public class breakstatement{
 //    public static void main(String[] args) {
 //        for(int i=1; i<=5; i++) {
